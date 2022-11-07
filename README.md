@@ -1,6 +1,8 @@
 # timelapse_slider
 Motorized timelapse slider with speed and direction options
 
+![](https://github.com/jolbertti/timelapse_slider/blob/main/ezgif.com-gif-maker.gif)
+
 Parts needed:
 
 - Raspberry Pi Pico
